@@ -1,1 +1,3 @@
-# snippeter
+# Snippeter
+
+My favorite VSCode snippets

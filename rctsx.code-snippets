@@ -1,0 +1,23 @@
+{
+	"React typescript template": {
+		"prefix": "rctsx",
+		"body": [
+			"import React from 'react'",
+			"",
+			"import {",
+			"\tContainer",
+			"} from './styles'",
+			"",
+			"const Component: React.FC = () => {",
+			"\treturn (",
+			"\t\t<Container>",
+			"\t\t\t...content",
+			"\t\t</Container>",
+			"\t)",
+			"}",
+			"",
+			"export default Component"
+		],
+		"description": "Snippet for React typescript"
+	}
+}

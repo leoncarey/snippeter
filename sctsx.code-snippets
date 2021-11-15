@@ -1,0 +1,14 @@
+{
+	"Styled Component tsx template": {
+		"prefix": "sctsx",
+		"body": [
+			"import styled from 'styled-components'",
+			"",
+			"export const Container = styled.section`",
+			"\t",
+			"`",
+			""
+		],
+		"description": "Snippet for Styled Components typescript React"
+	}
+}
